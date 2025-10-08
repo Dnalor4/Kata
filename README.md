@@ -1,2 +1,2 @@
 # Kata
-I'm training github
+I'm training github right now
