@@ -1,2 +1,2 @@
 # Kata
-Kata_exercice
+I'm training github
