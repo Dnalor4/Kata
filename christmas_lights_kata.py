@@ -67,7 +67,7 @@ lights1 = santas_instruction([[False for _ in range(1000)] for _ in range(1000)]
 lights2 = santas_instruction([[0 for _ in range(1000)] for _ in range(1000)],instruction2)
 summ = somme(lights1)  
 summ2 = somme(lights2)
-print(summ)
-print(summ2)
+print(f'Il y a {summ} lumière allumer en suivant la première compréhention des instructions')
+print(f'La luminosité est de {summ2} en suivant la deuxième compréhention des instructions')
 
 
