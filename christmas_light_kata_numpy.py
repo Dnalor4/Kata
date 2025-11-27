@@ -46,7 +46,7 @@ def news_santas_instruction(array_light):
 	return array_light
 
 lights = np.zeros((1000,1000))
-print(santas_instruction(lights).sum())
+print(f'Il y a {int(santas_instruction(lights).sum())} lumière allumer en suivant la première compréhention des instructions')
 lights2 = np.zeros((1000,1000))
-print(news_santas_instruction(lights2).sum())
+print(f'La luminosité est de {int(news_santas_instruction(lights2).sum())} en suivant la deuxième compréhention des instructions')
 
