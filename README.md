@@ -1,2 +1,2 @@
 # Kata
-Exercices retrouvable ici: https://kata-log.rocks/christmas-lights-kata
+Exercice retrouvable ici: https://kata-log.rocks/christmas-lights-kata
